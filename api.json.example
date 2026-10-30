@@ -1,0 +1,7 @@
+{
+  "baseURL": "https://api.openai.com/v1",
+  "apiKey": "sk-xxxxxx",
+  "remoteModel": "gpt-4o-mini",
+  "highThreshold": -1.5,
+  "lowThreshold": -3.5
+}
